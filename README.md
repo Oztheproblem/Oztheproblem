@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oztheproblem
-- 👀 I’m interested in Software Development and DevOps
+- 👀 I’m interested in Software Development, Cloud and DevOps
 - 🌱 I just finished a Front End Web Development with Team Tree House and a Ruby course with CodeAcademy
 - 💞️ I’m looking to collaborate on all things to empower myself
 - 📫 Holler via github!
