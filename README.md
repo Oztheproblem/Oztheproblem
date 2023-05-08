@@ -9,10 +9,10 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
-| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**   | Classic game to have fun vs Commputer  | Python            |
-| **[Sleep Debt Calculator]**    | A webapp to do y.                      | Javascript        |
-| **[Command Line Murder]**      | A Mystery you have to solve using CL   | Ruby              |
-| **[Students Directory]**       | A simple register for villains using CL| Ruby              |
+| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Commputer  | Python            |
+| **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | A webapp to do y.                      | Javascript        |
+| **[Command Line Murder](https://github.com/Oztheproblem/clmystery.git)**      | A Mystery you have to solve using CL   | Ruby              |
+| **[Students Directory](https://github.com/Oztheproblem/student-directory.git)**       | A simple register for villains using CL| Ruby              |
 
 ## Experience
 
