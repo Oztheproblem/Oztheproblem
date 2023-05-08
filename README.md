@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @Oztheproblem 
+- 👋 Hi, I’m Osman Khan aka @Oztheproblem 
 - 👀 I’m interested in Software Development, Cloud, Data and DevOps
 - 🌱 I'm proud [@makersacademy](https://github.com/makersacademy) student 
 - 💞️ I’m looking to collaborate on all things to empower myself
-- 📫 Holler via github!
-
-<!---
-Oztheproblem/Oztheproblem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Osman Khan
 
 As a Software Developer with transferable skills from Education, Project Management, and Health & Wellbeing, my 'Soft Skills' are my greatest strength. I am eager to learn and excel in my field. Despite my lack of experience in Software Development, I am determined and have self-studied AWS, Azure, Agile, and Scrum methodologies, and have a network of veteran coders. I am seeking a prestigious company to represent with pride and honor while utilizing my skills and abilities. Furthermore, I am excited to transition into the field of Data and apply my experience and knowledge to this exciting and growing field.
 
@@ -61,3 +54,8 @@ Sports Science & Management BSC (incomplete)
 - ✉️ osman_khan1987@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/osmankhanlife/)
 - 🌐 [GitHub](https://github.com/Oztheproblem)
+
+<!---
+Oztheproblem/Oztheproblem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
