@@ -1,4 +1,4 @@
-| [Experience](#Experience)| [Projects](#projects)|[Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)| [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) | 
+| [Experience](#Experience)| [Projects](#projects)| [Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)| [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) | 
 
 ## Who am I?
 👋 Hi, I’m Osman Khan aka @Oztheproblem. I'm excited and proud to be a [@makersacademy](https://github.com/makersacademy) student who joined in Apirl '23. I will be graduating by July '23 and will be a Software Developer with transferable skills from Education, Project Management and Health & Wellbeing. In addition to my Technical skills are my 'Soft Skills', which are my greatest strengths. I am eager to learn and excel in my field. Despite my lack of experience in Software Development, I am determined and have self-studied Front End, AWS, Azure, Agile and Scrum methodologies.
@@ -9,7 +9,7 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
-| **[Rock, Paper, Scissors] **   | Classic game to have fun vs Commputer  | Python            |
+| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**   | Classic game to have fun vs Commputer  | Python            |
 | **[Sleep Debt Calculator]**    | A webapp to do y.                      | Javascript        |
 | **[Command Line Murder]**      | A Mystery you have to solve using CL   | Ruby              |
 | **[Students Directory]**       | A simple register for villains using CL| Ruby              |
