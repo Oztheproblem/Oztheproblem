@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oztheproblem 
 - 👀 I’m interested in Software Development, Cloud, Data and DevOps
-- 🌱 I'm proud @makersacademy student 
+- 🌱 I'm proud [GitHub](https://github.com/makersacademy) student 
 - 💞️ I’m looking to collaborate on all things to empower myself
 - 📫 Holler via github!
 
