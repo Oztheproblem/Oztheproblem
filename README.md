@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Oztheproblem
+- 👋 Hi, I’m @Oztheproblem 
 - 👀 I’m interested in Software Development, Cloud, Data and DevOps
-- 🌱 I just finished a Front End Web Development with Team Tree House and a Ruby course with CodeAcademy
+- 🌱 I'm proud @makersacademy student 
 - 💞️ I’m looking to collaborate on all things to empower myself
 - 📫 Holler via github!
 
