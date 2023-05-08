@@ -1,4 +1,4 @@
-[Experience](#Experience)| [Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)|[LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
+[Experience](#Experience)| [Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)| [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
 
 ## Who am I?
 - 👋 Hi, I’m Osman Khan aka @Oztheproblem 
