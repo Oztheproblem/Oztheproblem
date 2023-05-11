@@ -1,17 +1,5 @@
 | [Projects](#projects)| [Experience](#Experience)| [Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)| [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) | 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/osmankhanlife/) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=oztheproblem&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oztheproblem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## Who am I?
 👋 Hi, I’m Osman Khan aka @Oztheproblem. I'm excited and proud to be a [@makersacademy](https://github.com/makersacademy) student who joined in Apirl '23. I will be graduating by July '23 and will be a Software Developer with transferable skills from Education, Project Management and Health & Wellbeing. In addition to my Technical skills are my 'Soft Skills', which are my greatest strengths. I am eager to learn and excel in my field. Despite my lack of experience in Software Engineering, I am determined and have self-studied Front End, AWS, Azure, Agile and Scrum methodologies.
 
@@ -101,8 +89,17 @@ A 16-week intensive development bootcamp, focusing on :
 - Empowerment and wellbeing
 - Family & Friends
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=oztheproblem&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oztheproblem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## Contact
 
 - ✉️ osman_khan1987@hotmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/osmankhanlife/)
 - 🌐 [GitHub](https://github.com/Oztheproblem)
+- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/osmankhanlife/) 
