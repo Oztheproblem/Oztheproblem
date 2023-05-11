@@ -102,4 +102,4 @@ A 16-week intensive development bootcamp, focusing on :
 - ✉️ osman_khan1987@hotmail.com
 - 🌐 [GitHub](https://github.com/Oztheproblem)
 - ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/osmankhanlife/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/osmankhanlife/) 
