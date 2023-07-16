@@ -9,15 +9,17 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%23172F2E.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-
 ## Projects
 
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
-| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Commputer  | Python            |
-| **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | Calculate your sleep and sleep debt    | Javascript        |
+| **[Social Media App - Facebook Clone](https://github.com/Oztheproblem/facebook-clone.git)**   | MERN stack project to create a social media app similar to Facebook | React, Node.js, Express.js, MongoDB |
+| **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Computer  | Python            |
+| **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | Calculate your sleep and sleep debt    | JavaScript        |
 | **[Command Line Murder](https://github.com/Oztheproblem/clmystery.git)**      | A Mystery you have to solve using CL   | Ruby              |
 | **[Students Directory](https://github.com/Oztheproblem/student-directory.git)**       | A simple register for villains using CL| Ruby              |
+
+In addition to other projects, I also worked on a **Social Media App - Facebook Clone** using the MERN stack. This project aimed to create a social media platform similar to Facebook, where users could connect, share content, and interact with others. The tech stack used for this project included React, Node.js, Express.js, and MongoDB. While working on this project, I honed my skills in building full-stack applications and implementing various features commonly found in social media platforms.
 
 ## Experience
 
