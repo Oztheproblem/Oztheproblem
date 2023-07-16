@@ -13,7 +13,7 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
-| **[Social Media App - Facebook Clone](https://github.com/Oztheproblem/facebook-clone.git)**   | MERN stack project to create a social media app similar to Facebook | React, Node.js, Express.js, MongoDB |
+| **[Social Media App - Facebook Clone](https://github.com/Oztheproblem/acebook-mern-template/tree/no-comment)**   | MERN stack project to create a social media app similar to Facebook | React, Node.js, Express.js, MongoDB |
 | **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Computer  | Python            |
 | **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | Calculate your sleep and sleep debt    | JavaScript        |
 | **[Command Line Murder](https://github.com/Oztheproblem/clmystery.git)**      | A Mystery you have to solve using CL   | Ruby              |
