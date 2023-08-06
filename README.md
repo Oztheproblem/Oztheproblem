@@ -13,6 +13,8 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
+| **[MapChat - Less Snap more Map](https://github.com/ezanaadugna/the-final-project)**   | Expo App uniting Architecture Enthusiast with quirky pick uplines | React-Native, JS, Node.js, Express.js, |
+
 | **[Social Media App - Facebook Clone](https://github.com/Oztheproblem/acebook-mern-template/tree/no-comment)**   | MERN stack project to create a social media app similar to Facebook | React, Node.js, Express.js, MongoDB |
 | **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Computer  | Python            |
 | **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | Calculate your sleep and sleep debt    | JavaScript        |
