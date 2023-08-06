@@ -1,7 +1,7 @@
 | [Projects](#projects)| [Experience](#Experience)| [Education](#education)| [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact)| [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
 
 # Who am I?
-👋 Hi, I’m Osman Khan aka @Oztheproblem. I'm excited and proud to be a [@makersacademy](https://github.com/makersacademy) student who joined in Apirl '23. I will be graduating by July '23 and will be a Software Engineer with transferable skills from Education, Project Management and Health & Wellbeing. In addition to my Technical skills are my 'Soft Skills', which are my greatest strengths. I am eager to learn and excel in my field. Despite my lack of experience in Software Engineering, I am determined and have self-studied Front End, AWS, Azure, Agile and Scrum methodologies.
+👋 Hi, I’m Osman Khan aka @Oztheproblem. I'm excited and proud to be a [@makersacademy](https://github.com/makersacademy) Software Engineer with transferable skills from Education, Project Management and Health & Wellbeing. In addition to my Technical skills are my 'Soft Skills', which are my greatest strengths. I am eager to learn and excel in my field. Despite my lack of experience in Software Engineering, I am determined and have self-studied Front End, AWS, Azure, Agile and Scrum methodologies.
 
 Having taught Health Sciences in Dubai for five years and experienced the transformative power of technology in the classroom, I am now eager to make a career transition to software development. I have always had a natural affinity for technology and enjoy working in collaborative environments, making the transition to software development a natural fit for me. I am also interested in Cloud, Data and DevOps.
 
@@ -14,7 +14,6 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 | Name                           | Description                            | Tech/tools        |
 | ------------------------------ | -------------------------------------- | ----------------- |
 | **[MapChat - Less Snap more Map](https://github.com/ezanaadugna/the-final-project)**   | Expo App uniting Architecture Enthusiast with quirky pick uplines | React-Native, JS, Node.js, Express.js, |
-
 | **[Social Media App - Facebook Clone](https://github.com/Oztheproblem/acebook-mern-template/tree/no-comment)**   | MERN stack project to create a social media app similar to Facebook | React, Node.js, Express.js, MongoDB |
 | **[Rock, Paper, Scissors](https://github.com/Oztheproblem/Rock-paper-scissors-python.git)**   | Classic game to have fun vs Computer  | Python            |
 | **[Sleep Debt Calculator](https://github.com/Oztheproblem/Sleep-Debt-Calculator.git)**    | Calculate your sleep and sleep debt    | JavaScript        |
