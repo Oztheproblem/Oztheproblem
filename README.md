@@ -20,6 +20,27 @@ Having taught Health Sciences in Dubai for five years and experienced the transf
 | **[Command Line Murder](https://github.com/Oztheproblem/clmystery.git)**      | A Mystery you have to solve using CL   | Ruby              |
 | **[Students Directory](https://github.com/Oztheproblem/student-directory.git)**       | A simple register for villains using CL| Ruby              |
 
+
+
+**Identifying User and Application Requirements For MapChat:**
+When developing MapChat, my primary goal was to create a location-based chat application where users could communicate with others in their vicinity using a map interface. I recognized the need for a platform that enabled spontaneous and context-aware conversations among people nearby. To determine the requirements, I conducted user surveys and gathered feedback from potential users to understand their preferences, desired features, and pain points with existing chat apps.
+
+**Learning Necessary Coding and Frameworks:**
+To bring MapChat to life, I needed to learn several technologies. I focused on using the MERN stack (MongoDB, Express.js, React.js, and Node.js) for the backend and frontend. I had prior experience with HTML, CSS, and basic JavaScript, so I delved deeper into React.js and Node.js. I took online courses, read documentation, and followed tutorials to grasp the concepts, best practices, and coding patterns associated with these technologies.
+
+**Ensuring Minimal Bugs and High Supportability:**
+To ensure the coding quality and minimize bugs, I adopted several practices:
+1. **Test-Driven Development (TDD):** I followed TDD principles by writing unit tests before implementing features. This approach helped catch bugs early in the development process.
+2. **Code Reviews:** I collaborated with peers who had experience in web development. Regular code reviews ensured that my code adhered to best practices, was readable, and followed coding conventions.
+3. **Version Control and Documentation:** I used Git for version control, creating meaningful commit messages and documenting my code changes. This made the codebase more understandable and allowed for easy collaboration.
+4. **Error Handling and Logging:** I implemented robust error handling and logging mechanisms to capture and address issues in a timely manner.
+
+**Outcome: MapChat Application**
+The outcome of my efforts was a functional and user-friendly MapChat web application. Users could log in, view a map, and see chat messages from others nearby. Conversations were contextually relevant, adding a layer of spontaneity to the chatting experience. The application was responsive and easy to navigate on both desktop and mobile devices.
+
+MapChat received positive feedback from users during testing, with many appreciating the unique concept and intuitive interface. The proactive steps I took to ensure code quality and minimize bugs resulted in a stable application that could be easily maintained and extended. The project not only demonstrated my technical skills but also my ability to identify user needs, learn new technologies, and deliver a fully functional web application.
+
+By recounting this example, I hope to showcase my experience in identifying requirements, learning new technologies, ensuring code quality, and achieving positive outcomes in web application development.
 In addition to other projects, I also worked on a **Social Media App - Facebook Clone** using the MERN stack. This project aimed to create a social media platform similar to Facebook, where users could connect, share content, and interact with others. The tech stack used for this project included React, Node.js, Express.js, and MongoDB. While working on this project, I honed my skills in building full-stack applications and implementing various features commonly found in social media platforms.
 
 ## Experience
