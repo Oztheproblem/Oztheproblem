@@ -20,7 +20,7 @@
 
 ## Experience
 
-- **Makers Academy Bootcamp** - May 2023 – July 2023 (Graduation Date)
+- **Makers Academy Intern** - May 2023 – Aug 2023 
 
   Hands-on experience in software development, honing my programming skills, and learning agile methodologies. The program includes extensive training in web development, databases, test-driven development, pair programming, and more.
 
