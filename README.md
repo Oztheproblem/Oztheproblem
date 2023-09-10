@@ -28,7 +28,7 @@
 
   Acting as a role model, life coach as well as careers advisor to students in an ‘alternative provision’. Developing behavior management plans, providing counseling and guidance, monitoring progress, and collaborating with other professionals, such as teachers, parents, and healthcare providers, to ensure that individuals receive comprehensive support.
 
-  - **Co - Director -SKYF RBKC** - Aug 2022 – Present
+- **Co - Director -SKYF RBKC** - Aug 2022 – Present
 
   As Co-Director at SKYF Charity in RBKC, I excel in bid writing for project funding, while also orchestrating monthly workshops focusing on wellbeing and career support. My role involves strategic leadership, fostering transparent communication with stakeholders, and driving community empowerment.
 
