@@ -60,22 +60,23 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Skills
 
-- Ruby, JavaScript, React, Python, Git
+- TDD
+- DevOps familiarity
 - AWS & Azure Cloud Fundamentals
+- AWS lab experience
 - Project Management
 - Soft Skills Speciialist
 - Teamwork
 - Communication
 - Motivation
-- Soooo Much more to come
 
 ## Certifications
 
-- Front End Web Developer
+- Front End Web Developer - Codeacademy
 - Mental Health First Aid - Instructor
 - Introduction to Scrum Master
 - Google Project Management Course
-- Soooo Much more to come
+
 
 ## Hobbies and Interests
 
