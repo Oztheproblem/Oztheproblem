@@ -20,7 +20,11 @@
 
 ## Experience
 
-- **Makers Academy Intern** - May 2023 – Aug 2023 
+- **Part Time Football Coach - American School of London** - Sept 2023 – Current 
+
+  Assistant football coach for the Illustrious Eagles F.C. Supports team training, strategy, and player development, while also assisting with administrative tasks and maintaining open communication
+  
+- **Makers Academy Intern** - May 2023 – Aug 2023
 
   Hands-on experience in software development, honing my programming skills, and learning agile methodologies. The program includes extensive training in web development, databases, test-driven development, pair programming, and more.
 
