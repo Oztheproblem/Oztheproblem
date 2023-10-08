@@ -64,8 +64,21 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Skills
 
+During my Peer Programming Experience , I had the opportunity to work within diverse teams of varying skill levels. One notable project was the creation of an Airbnb Clone using a new tech stack. This challenge was met with a mix of excitement and uncertainty, as we were all essentially strangers at the beginning of the project. Leveraging my strong communication skills, I assumed a leadership role during our Agile method stand-ups, ensuring that our team was well-coordinated and focused on our goals.
+
+One of my key strengths lies in my ability to manage interpersonal dynamics effectively. I demonstrated this by adeptly defusing tensions that occasionally arose within the team. In a collaborative setting where differing opinions on design choices and feature priorities emerged, I stepped in to facilitate productive discussions. By skillfully asking probing questions, I guided the team toward making well-informed decisions. For instance, when there were contrasting preferences regarding CSS styling and feature implementation, I approached the situation with diplomacy and patience.
+
+What set me apart in this scenario was my commitment to understanding each team member's perspective. I took the initiative to engage with individuals who expressed the most frustration, lending an empathetic ear to their concerns. By doing so, I created an atmosphere where everyone felt heard and valued, which significantly contributed to the team's cohesion and overall progress.
+
+My experience extends beyond technical skills alone. As a former teacher and behavior mentor, I've honed my ability to adapt my communication style to different audiences. This skill proved invaluable when working with teammates of varying technical proficiencies. Furthermore, my background in guiding and mentoring others enables me to offer constructive feedback and support, fostering a positive learning environment for everyone involved.
+
+Lastly, I pride myself on being a naturally friendly and approachable individual. This trait not only makes collaboration more enjoyable but also contributes to maintaining a harmonious team atmosphere. People find it easy to connect with me, and this approachability enhances teamwork and knowledge sharing.
+
+In summary, my journey as a teacher, behavior mentor, and collaborator with volunteers, combined with my friendly disposition, has equipped me with a unique blend of skills that I'm confident and excited to bring to the table.
+
+
 - TDD
-- DevOps familiarity
+- DevOps familiarity - Enrolled to KodeKloud
 - AWS & Azure Cloud Fundamentals
 - AWS lab experience
 - Project Management
