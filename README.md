@@ -1,4 +1,4 @@
-| [Projects](#projects) | [Experience](#Experience) | [Education](#education) | [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact) | [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
+![image](https://github.com/user-attachments/assets/a8a12748-04ba-458e-89ab-034fa03a2860)| [Projects](#projects) | [Experience](#Experience) | [Education](#education) | [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact) | [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
 
 # Who am I?
 👋 Hi, I’m Osman Khan aka @Oztheproblem. I'm excited and proud to be a [@makersacademy](https://github.com/makersacademy) graduate. I am a Software Engineer boasting transferable skills from Education, Project Management, and Health & Wellbeing domains. Beyond my technical skills, my 'Soft Skills' stand as my paramount asset. My journey has led me to independently learn AWS, Azure, Agile & Scrum methodologies. Bolstering my journey are connections with seasoned coders who provide invaluable guidance. I aspire to align myself with a reputable enterprise that I can represent with a sense of pride & honor, channeling my combined soft and technical skills to make meaningful contributions
@@ -20,15 +20,15 @@
 
 ## Experience
 
-- **Part Time Football Coach - American School of London** - Sept 2023 – Current 
+- **Scrum Master, Pracctic** - March 2024 – Current 
 
-  Assistant football coach for the Illustrious Eagles F.C. Supports team training, strategy, and player development, while also assisting with administrative tasks and maintaining open communication
+  Led Scrum ceremonies and Agile coaching, boosting collaboration and self-organization. Conducted Agile training, removed impediments, and drove continuous improvement. Expertly used Jira, Figma, and Kanban for workflow coordination and wireframing. PO experience communicating with Stakeholders and refining backlogs
   
 - **Makers Academy Intern** - May 2023 – Aug 2023
 
   Hands-on experience in software development, honing my programming skills, and learning agile methodologies. The program includes extensive training in web development, databases, test-driven development, pair programming, and more.
 
-- **Behavior Mentor -Trust - Roundwood** - Dec 2022 – May 2023
+- **Behavior Mentor -Trust - Roundwood** - Dec 2022 – March 2024
 
   Acting as a role model, life coach as well as careers advisor to students in an ‘alternative provision’. Developing behavior management plans, providing counseling and guidance, monitoring progress, and collaborating with other professionals, such as teachers, parents, and healthcare providers, to ensure that individuals receive comprehensive support.
 
