@@ -30,7 +30,7 @@ My professional background in health and wellbeing, coupled with my passion as a
 
   Hands-on experience in software development, honing my programming skills, and learning agile methodologies. The program includes extensive training in web development, databases, test-driven development, pair programming, and more.
 
-- **Behavior Mentor -Trust - Roundwood** - Oct 2022 – March 2024
+- **Behavior Manager -Trust - Roundwood** - Oct 2022 – March 2024
 
   Acting as a role model, life coach as well as careers advisor to students in an ‘alternative provision’. Developing behavior management plans, providing counseling and guidance, monitoring progress, and collaborating with other professionals, such as teachers, parents, and healthcare providers, to ensure that individuals receive comprehensive support.
 
