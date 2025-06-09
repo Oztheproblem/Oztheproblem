@@ -1,9 +1,25 @@
 | [Projects](#projects) | [Experience](#Experience) | [Education](#education) | [Skills](#skills) | [Certifications](#certifications) | [Hobbies and Interests](#hobbies-and-interests) | [Contact](#contact) | [LinkedIn](http://www.linkedin.com/in/osmankhanlife/) |
 
 # Who am I?
-👋 Hi, I’m Osman Khan aka @Oztheproblem. I am committed to excelling as a Sales Development Representative, drawing on a rich blend of Agile expertise, software engineering skills, and professional experience in health, wellbeing, and teaching. My journey began in education, where I developed the ability to connect with diverse individuals and foster personal growth. Transitioning into Agile project management and software development, I honed my skills in team collaboration, problem-solving, and delivering value under pressure.
+👋 Hi, I’m Osman Khan (@Oztheproblem)
 
-My professional background in health and wellbeing, coupled with my passion as a gym-goer, sports player, and personal training, has instilled discipline, resilience, and a people-centered mindset. These qualities, along with my technical fluency in React-MERN, Python, and AWS fundamentals, enable me to thrive in dynamic, fast-paced environments. Dedicated to building meaningful relationships and driving customer success, I am eager to bring value to innovative industries through impactful connections and results-driven strategies
+**Dynamic Sales & Technology Professional**  
+- Skilled at generating and qualifying high-value pipelines using LinkedIn Sales Navigator, with a rapid-learning aptitude for Salesforce and HubSpot  
+- Familiar with BANT and MEDDIC frameworks to structure targeted outreach and nurture early-stage opportunities  
+- Solid Linux proficiency and strong grasp of containerization & CI/CD concepts—bridging the gap between sales, engineering, and DevOps teams  
+- Agile/Scrum mindset: I’ve supported sprint planning, daily stand-ups, and cross-functional collaboration to keep initiatives on track  
+- Passionate about building trusted partnerships, exceeding targets, and delivering exceptional customer outcomes  
+
+**Technical Stack & Current Focus**  
+- ⚛️ React • Node.js • Express • MongoDB  
+- 🐍 Python • AWS fundamentals  
+- 🔄 Upskilling in Docker, Jenkins, Terraform & GitOps workflows  
+- 📈 Planning to publish DevOps-driven projects soon: CI/CD pipelines, infrastructure as code demos, and automated deployment workflows  
+
+**Background & Values**  
+My journey from education and wellbeing into Agile project coordination has instilled discipline, resilience, and a people-centered mindset. As a gym-goer, sports player, and lifelong learner, I thrive in fast-paced environments and love tackling new challenges.  
+
+🔭 I’m currently looking to collaborate on Tech Sales and DevOps projects—stay tuned for code samples and walkthroughs!  
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%23172F2E.svg?style=for-the-badge&logo=cypress&logoColor=white)
